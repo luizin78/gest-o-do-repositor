@@ -1,7 +1,6 @@
 # Sistema de Estoque Remanso Bebidas
 
-Trabalho desenvolvido somente em **arquivos Python**, utilizando interface grafica com **Tkinter** e banco de dados **SQLite**. O projeto nao usa servidor web, navegador, `localhost`, HTML, CSS ou JavaScript.
-
+Trabalho desenvolvido somente em **arquivos Python**, utilizando interface grafica com **Tkinter** e banco de dados **SQLite**. 
 O sistema controla o estoque de bebidas da empresa ficticia **Remanso Bebidas**.
 
 ## Funcionalidades
